@@ -60,16 +60,16 @@ In this assignment, we were tasked with designing and implementing a Peer-to-Pee
 3. **Share a file**: Use the UI to select and upload a file.
 4. **Download a file**:Use the UI to search and download a file from the network.
 
-##📝 Report and Documentation
+## 📝 Report and Documentation 
 The detailed report explaining the approach, design decisions, and assumptions is available in the /docs folder. It includes step-by-step explanations of the system design and implementation. 📖
 
-##🎥 Demo
+## 🎥 Demo 
 For executive students, a recording of the demo is included in the /demo folder. 🎬
 
-##🤝 Contribution
+## 🤝 Contribution
 Feel free to fork this project and contribute by submitting pull requests. Let's build a robust P2P file sharing system together! 🌟
 
-##📧 Contact
+## 📧 Contact
 For any queries or support, please reach out to me. 📬
 
 Thank you for checking out our P2P File Sharing System project! Happy sharing! 😊
